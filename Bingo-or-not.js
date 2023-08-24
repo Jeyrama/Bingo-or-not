@@ -19,3 +19,5 @@ function bingo(a) {
   }
   return 'WIN'
 }
+
+// or
